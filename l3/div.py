@@ -1,6 +1,5 @@
-
 # divide of 2 no 
 print("Enter 2 numbers")
-a = int(input())    
-b = int(input())
-print("div is:", a / b)
+n1 = int(input())    
+n2 = int(input())
+print("div is:", n1 / n2)
